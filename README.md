@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 
 - 🌱 Self Learned **Full-Stack Developer** from Bhubaneswar, India.
 
 - 🧠 Interested in **AI/LLM Tools, Agentic AI**
