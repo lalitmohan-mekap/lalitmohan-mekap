@@ -13,7 +13,7 @@
 
 ### 🛠 Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,HTML5,CSS3,js,react,nodejs,Render,Netlify,Adobe,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,git,github" />
 </p>
 
 ## 🌐 Socials:
