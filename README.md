@@ -6,18 +6,30 @@
 
 ---
 
-### 
-- 🌱 Self Learned **Full-Stack Developer** from Bhubaneswar, India.
-
-- 🧠 Interested in **AI/LLM Tools, Agentic AI**
+# 💫 About Me:
+🌱 Self Learned Full-Stack Developer from Bhubaneswar, India.<br><br>🧠 Interested in AI/LLM Tools, Agentic AI<br>🌱 I’m currently learning ai automation.
 
 ---
 
 ### 🛠 Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,HTML5,CSS3,js,react,nodejs,Render,Netlify,Adobe,git,github" />
 </p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/likun_og/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lalitmekap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitmohanmekap123@gmail.com) 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lalitmohan-mekap&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ---
+[![](https://komarev.com/ghpvc/?username=lalitmohan-mekap&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/EPKSWWD7N8RKY) 
 
+  
