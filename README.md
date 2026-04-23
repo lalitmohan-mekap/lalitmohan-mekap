@@ -17,8 +17,7 @@
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/likun_og/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitmekap)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://lalitmohan-mekap.github.io/Lalit-Portfolio/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitmohanmekap123@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/likun_og/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitmekap)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://lalitmohan-mekap.github.io/Lalit-Portfolio/)
 
 
 ### ✍️ Dev Quote
@@ -28,6 +27,6 @@
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lalitmohanmekap123@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@LalitMohanMekap) 
 
   
