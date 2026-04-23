@@ -20,8 +20,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/likun_og/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitmekap)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://lalitmohan-mekap.github.io/Lalit-Portfolio/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitmohanmekap123@gmail.com) 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lalitmohan-mekap&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
